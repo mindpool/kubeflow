@@ -39,3 +39,7 @@ examples/.ipynb_checkpoints/
 
 
 !testing/test-infra/vendor
+
+#Apps
+
+apps/
